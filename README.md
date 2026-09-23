@@ -1,6 +1,6 @@
 # Field & Frame construction website concept
 
-An independent responsive portfolio concept by Alexandr Khrustalev, created with AI assistance and reviewed before publication.
+An independent responsive portfolio concept by Alexandr Khrustalev.
 
 Field & Frame is fictional. This is not a past client project, and no construction services are offered.
 
